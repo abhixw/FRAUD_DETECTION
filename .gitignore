@@ -1,0 +1,28 @@
+# 🧠 Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🧩 Virtual environment folders
+venv/
+env/
+.venv/
+
+# 🪟 macOS system files
+.DS_Store
+
+# 💾 Model or data files (optional)
+model/*.pkl
+*.csv
+*.xlsx
+
+# 🔍 Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# 🧪 Log files
+*.log
+
+# 🗂️ IDE and editor settings
+.vscode/
+.idea/
